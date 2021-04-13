@@ -1,4 +1,4 @@
-package homework7;
+package homework10;
 
 import java.util.HashSet;
 import java.util.List;
